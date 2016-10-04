@@ -1,1 +1,1 @@
-**Emphasize* Command line commit. *Emphasize*
+_emphasize_ Command line commit. _emphasize_
